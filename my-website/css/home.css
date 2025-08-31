@@ -17,11 +17,11 @@ body {
   padding: 10px;
   background: #222;
 }
-
+/*
 .navbar img {
   height: 40px;
 }
-
+*/
 .nav-links {
   display: flex;
   gap: 10px;
@@ -280,3 +280,4 @@ body {
     gap: 8px;
   }
 }
+
